@@ -1,4 +1,7 @@
-![Logo](https://github.com/avnishkt2783/nKWGT/blob/main/files/logoland.png?raw=true)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/logo.jpg?raw=true" alt="eg1" height="500">
+  <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/logoland.jpg?raw=true" alt="eg2" height="500">
+</div>
 
 Welcome to the nKWGT Repository! This repository is a collection of widget customization packages.
 
