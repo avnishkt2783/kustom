@@ -17,10 +17,8 @@ Welcome to the nKWGT Repository! This repository is a collection of widget custo
   // Pro Key is required if you want to import creations.
 ```
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+## How to use.
+![eg1](https://github.com/avnishkt2783/nKWGT/blob/main/files/eg1.jpg?raw=true){:height="100px"}
 
 ## Nothing Community
 - [Nothing Discord](https://discord.gg/nothingtech)
