@@ -30,6 +30,6 @@ Welcome to the nKWGT Repository! This repository is a collection of widget custo
 </div>
 
 ## [Download Widgets](https://github.com/avnishkt2783/nKWGT/tree/main/widgets)
-
+## [Download APK](https://github.com/avnishkt2783/nKWGT/blob/main/nkwgt.apk)
 ## Nothing Community
 - [Nothing Discord](https://discord.gg/nothingtech)
