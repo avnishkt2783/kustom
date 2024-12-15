@@ -5,7 +5,7 @@
 
 ## nKWGT | Nothing Styled Widgets.
 
-Welcome to the nKWGT Repository! This repository is a collection of widget customization packages.
+Welcome to the nKWGT Repository! This repository is a collection of widget customization packages, assets and apk.
 
 ## Requirements
 
