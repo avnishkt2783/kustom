@@ -25,6 +25,8 @@ Welcome to the nKWGT Repository! This repository is a collection of widget custo
   <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg4.jpg?raw=true" alt="eg1" height="300">
   <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg5.jpg?raw=true" alt="eg1" height="300">
 </div>
+
 ## [Download Widgets](https://github.com/avnishkt2783/nKWGT/tree/main/widgets)
+
 ## Nothing Community
 - [Nothing Discord](https://discord.gg/nothingtech)
