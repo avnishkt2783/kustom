@@ -3,7 +3,7 @@
   <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/logoland_inv.png?raw=true" alt="eg2" height="150">
 </div>
 
-## Nothing Styled Widgets.
+## nKWGT | Nothing Styled Widgets.
 
 Welcome to the nKWGT Repository! This repository is a collection of widget customization packages.
 
