@@ -13,11 +13,14 @@ Welcome to the nKWGT Repository! This repository is a collection of widget custo
   Install the KWGT Pro Key.
   // Pro Key is required if you want to import creations.
 ```
+## Example.
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg1.jpg?raw=true" alt="eg1" height="500">
+  <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg2.jpg?raw=true" alt="eg2" height="500">
+</div>
 
 ## How to use.
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg1.jpg?raw=true" alt="eg1" height="300">
-  <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg2.jpg?raw=true" alt="eg2" height="300">
   <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg3.jpg?raw=true" alt="eg3" height="300">
   <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg4.jpg?raw=true" alt="eg1" height="300">
   <img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg5.jpg?raw=true" alt="eg1" height="300">
