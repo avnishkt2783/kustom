@@ -15,8 +15,11 @@ Welcome to the nKWGT Repository! This repository is a collection of widget custo
 ```
 
 ## How to use.
-<img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg1.jpg?raw=true" alt="eg1" height="100">
-![eg1](https://github.com/avnishkt2783/nKWGT/blob/main/files/eg1.jpg?raw=true){:height="100px"}
+<img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg1.jpg?raw=true" alt="eg1" height="200">
+<img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg2.jpg?raw=true" alt="eg1" height="200">
+<img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg3.jpg?raw=true" alt="eg1" height="200">
+<img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg4.jpg?raw=true" alt="eg1" height="200">
+<img src="https://github.com/avnishkt2783/nKWGT/blob/main/files/eg5.jpg?raw=true" alt="eg1" height="200">
 
 ## Nothing Community
 - [Nothing Discord](https://discord.gg/nothingtech)
