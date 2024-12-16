@@ -11,7 +11,7 @@ Welcome to the nKWGT Repository! This repository is a collection of widget custo
 
 - KWGT Application ([Playstore](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_IN))
 - KWGT Pro Key ([Playstore](https://play.google.com/store/apps/details?id=org.kustom.widget.pro&hl=en_IN))
-- KWGT Exported Files (.kwgt)
+- KWGT Exported Files (.kwgt) or nKWGT App ([Download](https://github.com/avnishkt2783/nKWGT/blob/main/nkwgt.apk))
 
 ```
   Install the KWGT Application.
